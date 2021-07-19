@@ -1,1 +1,2 @@
-# Top-8-Neural-Network-Compression-Techniques-Papers
+# Top 8 Neural Network Compression Techniques Papers
+
